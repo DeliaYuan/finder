@@ -1,1 +1,2 @@
-US1: find out how to accurate positioning
+US1: learn some methods about accurating position
+US2: using best method to accurate positioning
